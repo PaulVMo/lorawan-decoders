@@ -1,7 +1,7 @@
 # LoRaWAN Decoders
 JavaScript device payload decoders for several LoRaWAN devices.
 
-## Decoders
+## Devices
 
 | Manufacturer    | Device                         | Payload Specification |
 | --------------- | ------------------------------ | ----------------------|
